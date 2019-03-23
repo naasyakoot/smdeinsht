@@ -1,0 +1,1 @@
+now works from locally fine problem was fontawesome !required
